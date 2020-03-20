@@ -4,6 +4,10 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 ## main hubs
 - [www.classcentral.com](www.classcentral.com)
 - [www.coursera.org](https://www.coursera.org/)
+- [Malware analysis journal](https://github.com/H3xFiles/malwareanalysis_journal/blob/master/february2020.md)
+
+## podcasts
+- [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
 
 ## Cultural
 - [ Archaeology's Dirty Little Secrets ](https://www.classcentral.com/course/secrets-513)
@@ -14,6 +18,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 ## Programming
 - [Assembly Language: The (Sega) Genesis of Programming: CodeMash](https://www.pluralsight.com/courses/codemash-session-97)
 - [A Developer's Introduction to Electronics: CodeMash](https://www.pluralsight.com/courses/codemash-session-35)
+- [how-to-make-a-robot](https://www.robotshop.com/community/tutorials/show/how-to-make-a-robot-lesson-10-programming-your-robot)
 ## Science
 - [How Viruses Cause Disease](https://www.my-mooc.com/en/mooc/virology2/)
 - [Case study: DNA methylation data analysis ](https://www.classcentral.com/course/edx-case-study-dna-methylation-data-analysis-2980)
@@ -24,10 +29,15 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Learning from Bug Bounty Results: CodeMash](https://app.pluralsight.com/player?name=19dff2b0-9f9f-47c9-a939-abc3cd6f2a4f&mode=live&clip=0&course=codemash-session-49)
 - [Practical Cryptography for Developers: CodeMash](https://app.pluralsight.com/player?name=c0c39038-7d8c-4396-ab3f-fbe6bfd63635&mode=live&clip=0&course=codemash-session-39)
 
+## hacking
+- [hacksplaining](https://www.hacksplaining.com/)
+- [portswigger web-security](https://portswigger.net/web-security)
+- [Learn to hack stuff](https://www.hacker101.com/videos)
+
 ## Devops
 - [Introduction-to-ansible](https://www.ansible.com/resources/webinars-training/introduction-to-ansible)
 
-## AI, ML
+## AI, ML [my notes](https://github.com/H3xFiles/MachineLearningNotes)
 - [Machine Learning on the Cheap and without a PhD in Math: CodeMash](https://www.pluralsight.com/courses/codemash-session-51)
 - [Creating a Chess AI That Can Beat You: CodeMash](https://www.pluralsight.com/courses/codemash-session-111)
 - [convolutional-neural-networks - coursera](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
