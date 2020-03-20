@@ -26,7 +26,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [World Health Organization COVID-19 Clinical Care Training for Severe Acute Respiratory Infection](https://openwho.org/courses/severe-acute-respiratory-infection)
 - [Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19) ](https://openwho.org/courses/COVID-19-IPC-EN)
 - [ePROTECT Respiratory Infections (EN)](https://openwho.org/courses/eprotect-acute-respiratory-infections)
-- [https://openwho.org/courses/introduction-to-ncov](https://openwho.org/courses/introduction-to-ncov)
+- [Emerging respiratory viruses, including COVID-19: methods for detection, prevention, response and control](https://openwho.org/courses/introduction-to-ncov)
 
 
 ## Security
