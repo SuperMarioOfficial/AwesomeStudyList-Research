@@ -22,6 +22,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 ## Science
 - [How Viruses Cause Disease](https://www.my-mooc.com/en/mooc/virology2/)
 - [Case study: DNA methylation data analysis ](https://www.classcentral.com/course/edx-case-study-dna-methylation-data-analysis-2980)
+- [World Health Organization COVID-19 Introduction to coronavirus](https://openwho.org/courses/COVID-19-IPC-EN)
+- [World Health Organization COVID-19 Clinical Care Training for Severe Acute Respiratory Infection](https://openwho.org/courses/severe-acute-respiratory-infection)
 ## Security
 - [Intro to Mobile Security Testing: CodeMash](https://app.pluralsight.com/player?name=0c0092f1-3367-447b-9223-d6b166b2a29b&mode=live&clip=0&course=codemash-session-44)
 - [Open Source Security Vulnerabilities in Containers: CodeMash](https://app.pluralsight.com/player?name=c5bd07a4-362b-4775-b1d7-cdbb45bf18d5&mode=live&clip=0&course=codemash-session-41)
