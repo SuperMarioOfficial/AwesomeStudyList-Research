@@ -52,3 +52,14 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 ## crypto
 - [cryptocurrency-blockchain-introduction-digital-currency](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency/lecture/3IJPP/introduction-and-summary)
+
+# Single videos
+## Similatuon theory
+- [Are We Living in a Simulation? | Oleg Maslov | TEDxSPbU](https://www.youtube.com/watch?v=b5c7Rq4ZQaA)
+
+## history
+- [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)
+- [Michael Cremo: "Forbidden Archaeology" | Talks at Google](https://www.youtube.com/watch?v=DKfGC3P9KoQ)
+## self-improvment
+- [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)
+- [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
