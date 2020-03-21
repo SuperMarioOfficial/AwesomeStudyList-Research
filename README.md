@@ -10,7 +10,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
 
 ## Cultural
-- [ Archaeology's Dirty Little Secrets ](https://www.classcentral.com/course/secrets-513)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="42" width="42">
+- [ Archaeology's Dirty Little Secrets ](https://www.classcentral.com/course/secrets-513)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [truthinourbones-osteoarchaeology-archaeology - coursera](https://www.coursera.org/learn/truthinourbones-osteoarchaeology-archaeology)
 - [astrobiology-exploring-other-worlds - coursera](https://www.coursera.org/learn/astrobiology-exploring-other-worlds)
 - [Archaeoastronomy - coursera](https://www.coursera.org/learn/archaeoastronomy#syllabus)
