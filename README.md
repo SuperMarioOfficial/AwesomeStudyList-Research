@@ -56,10 +56,13 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 # Single videos
 ## Similatuon theory
 - [Are We Living in a Simulation? | Oleg Maslov | TEDxSPbU](https://www.youtube.com/watch?v=b5c7Rq4ZQaA)
+- [Leonard Susskind on The World As Hologram](https://www.youtube.com/watch?v=2DIl3Hfh9tY&t=3s)
+- [Quantum Gravity Research](https://www.youtube.com/channel/UCUyk0KLo7JPLCCh4oRNLzsQ)
 
 ## history
 - [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)
 - [Michael Cremo: "Forbidden Archaeology" | Talks at Google](https://www.youtube.com/watch?v=DKfGC3P9KoQ)
+- [Irving Finkel | The Ark Before Noah: A Great Adventure](https://www.youtube.com/watch?v=s_fkpZSnz2I)
 ## self-improvment
 - [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
