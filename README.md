@@ -57,7 +57,9 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 ## Similatuon theory
 - [Are We Living in a Simulation? | Oleg Maslov | TEDxSPbU](https://www.youtube.com/watch?v=b5c7Rq4ZQaA)
 - [Leonard Susskind on The World As Hologram](https://www.youtube.com/watch?v=2DIl3Hfh9tY&t=3s)
-- [Quantum Gravity Research](https://www.youtube.com/channel/UCUyk0KLo7JPLCCh4oRNLzsQ)
+- [Simulation #256 Dr. Max Tegmark - Math, Physics, & AGI](https://www.youtube.com/watch?v=BBYkS4eXkAY)
+- [ch:Simulation ](https://www.youtube.com/channel/UC6JhS4GvWf3AJfOTfkrse2w)
+- [ch:Quantum Gravity Research](https://www.youtube.com/channel/UCUyk0KLo7JPLCCh4oRNLzsQ)
 
 ## history
 - [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)
