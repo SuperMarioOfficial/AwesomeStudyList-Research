@@ -61,6 +61,9 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [ch:Simulation ](https://www.youtube.com/channel/UC6JhS4GvWf3AJfOTfkrse2w)
 - [ch:Quantum Gravity Research](https://www.youtube.com/channel/UCUyk0KLo7JPLCCh4oRNLzsQ)
 
+## Physics
+- [John Wheeler Interview](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzVlqiUh95Q881umWUPjQbB)
+
 ## history
 - [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)
 - [Michael Cremo: "Forbidden Archaeology" | Talks at Google](https://www.youtube.com/watch?v=DKfGC3P9KoQ)
