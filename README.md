@@ -40,8 +40,9 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [portswigger web-security](https://portswigger.net/web-security)
 - [Learn to hack stuff](https://www.hacker101.com/videos)
 
-## Devops
+## Devops [my notes](https://github.com/cybern3tic/devops_notes)
 - [Introduction-to-ansible](https://www.ansible.com/resources/webinars-training/introduction-to-ansible)
+
 
 ## AI, ML [my notes](https://github.com/H3xFiles/MachineLearningNotes)
 - [Machine Learning on the Cheap and without a PhD in Math: CodeMash](https://www.pluralsight.com/courses/codemash-session-51)
