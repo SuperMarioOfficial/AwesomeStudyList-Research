@@ -34,7 +34,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Open Source Security Vulnerabilities in Containers: CodeMash](https://app.pluralsight.com/player?name=c5bd07a4-362b-4775-b1d7-cdbb45bf18d5&mode=live&clip=0&course=codemash-session-41)
 - [Learning from Bug Bounty Results: CodeMash](https://app.pluralsight.com/player?name=19dff2b0-9f9f-47c9-a939-abc3cd6f2a4f&mode=live&clip=0&course=codemash-session-49)
 - [Practical Cryptography for Developers: CodeMash](https://app.pluralsight.com/player?name=c0c39038-7d8c-4396-ab3f-fbe6bfd63635&mode=live&clip=0&course=codemash-session-39)
-
+- [Networking security book](https://gendersec.tacticaltech.org/wiki/index.php/Networking_concepts)
 ## hacking
 - [hacksplaining](https://www.hacksplaining.com/)
 - [portswigger web-security](https://portswigger.net/web-security)
