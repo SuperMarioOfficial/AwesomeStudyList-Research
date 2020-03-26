@@ -5,6 +5,26 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [www.classcentral.com](www.classcentral.com)
 - [www.coursera.org](https://www.coursera.org/)
 - [Malware analysis journal](https://github.com/H3xFiles/malwareanalysis_journal/blob/master/february2020.md)
+- [linuxacademy](https://linuxacademy.com)
+
+
+## Linux Accademy Security and Devops
+- [SecDevOps Essential](https://linuxacademy.com/course/dev-sec-ops-essentials/)
+- [Encryption fundamentals](https://linuxacademy.com/course/encryption-fundamentals/)
+- [SSL foundamentals](https://linuxacademy.com/course/secure-socket-layer-fundamentals/)
+- [Cloud Security I](https://linuxacademy.com/course/cloud-security-fundamentals/)
+- [AWS Security Essentials](https://linuxacademy.com/course/aws-security-essentials/)
+- [Using Devops Automation for AWS Deployments](https://linuxacademy.com/course/using-devops-automation-for-aws-deployments/)
+- [Server Hardening](https://linuxacademy.com/course/server-hardening-fundamentals/)
+- [Apache Web Server Hardening](https://linuxacademy.com/course/hardening-apache-web-server/)
+- [Secure Container Host Operating System](https://linuxacademy.com/course/secure-container-host-operating-system/)
+
+## Linux Accademy DevOps Data Egnineering
+- [Hadoop Quick Start](https://linuxacademy.com/course/hadoop-quick-start/)
+- [Big Data Essentials](https://linuxacademy.com/course/big-data-essentials/)
+- [Deploy and Configure a Single-Node Hadoop Cluster](https://linuxacademy.com/hands-on-lab/53d9eb12-943a-46f4-a5e0-841e66459b51/)
+- [Database Essential](https://linuxacademy.com/course/database-essentials/)
+
 
 ## podcasts
 - [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
