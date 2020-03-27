@@ -97,10 +97,6 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Is a Brain Upload Possible? Max Tegmark on Whole Brain Emulation](https://www.youtube.com/watch?v=L5rNDCC-o2U)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [Simulation #297 Siranush Babakhanova - Xapiens: Humans Augmented](https://www.youtube.com/watch?v=S8gFgIX92Nw)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 
-## memory
-- [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
-- [Study Less Study Smart: A 6-Minute Summary of Marty Lobdell's Lecture - College Info Geek](https://www.youtube.com/watch?v=23Xqu0jXlfs)
-- [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
 ## history
 - [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
@@ -110,3 +106,43 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 ## self-improvment
 - [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
+
+## memory and studying
+### Recall Method
+The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
+- [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
+- [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
+- [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
+- [How I Study For Exams in Medical School [Active Recall Study Strategies]](https://www.youtube.com/watch?v=YhvZqXLBH_o)
+### How to write Notes 
+- [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
+### Revision
+- [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
+- [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
+### Memory and learning 
+- [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
+- [How to Learn Faster with the Feynman Technique (Example Included)](https://www.youtube.com/watch?v=_f-qkGJBPts)
+- [The Most Powerful Way to Remember What You Study](https://www.youtube.com/watch?v=eVajQPuRmk8)
+- [3 Mental Errors Holding You Back in School](https://www.youtube.com/watch?v=HsQSWyU5JHs)
+- [How I Memorized Everything & Aced Medical School | 3 Memory Techniques](https://www.youtube.com/watch?v=J1dYrFwg5Hg)
+- [Most Effective Way to IMPROVE MEMORY (& Memorize ANYTHING)](https://www.youtube.com/watch?v=G49R744t4Ew)
+- [Memorization | Memory Palace and Mnemonics | How to Actually USE Them](https://www.youtube.com/watch?v=GcN4LcjLFd4)
+### Reading 
+- [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
+### Sleeping
+- [Surgeon Sleep Secrets - The Art & Science of Sleep](https://www.youtube.com/watch?v=aaYys7uGqZQ)
+- [Sleep Smarter | Sleeping Science, How to be Better at it, & Feel More Refreshed](https://www.youtube.com/watch?v=Oq28WJpZfLg)
+- [How to Wake Up Early - And Not be Miserable](https://www.youtube.com/watch?v=XtDc_iJ-j-M)
+### General study tips
+- [3 LIES Students Believe (That Hold Them Back)](https://www.youtube.com/watch?v=d7Ot9wPYuQw)
+- [Why Advice is Holding You Back](https://www.youtube.com/watch?v=3VGFN1uVwQs)
+- [PERSONALITY-based Study Tips | Tools for Better Grades](https://www.youtube.com/watch?v=H4rhSvqPM3s)
+- [Study Techniques - The Good, Bad, & Useless](https://www.youtube.com/watch?v=w1cX89XgqUM)
+- [YOU'RE STUDYING WRONG - Here's Why](https://www.youtube.com/watch?v=5-RERVb3K2U)
+- [How to Stay Focused While Studying | Medical School Secrets](https://www.youtube.com/watch?v=Ev54RJdjOkU)
+- [Procrastination – 7 Steps to Cure](https://www.youtube.com/watch?v=irp5ghCVNAM)
+- [How to Study Effectively and Efficiency as a Pre-Med and Medical Student](https://www.youtube.com/watch?v=pL71FE-JYzk)
+- [Stop Procrastinating and Be Productive - How to Study When You Don't Want To](https://www.youtube.com/watch?v=RFMgQshwGZE)
+- [Pre-Med Study Strategies - What I Wish I Knew in College (Tips from Medical School)](https://www.youtube.com/watch?v=1JqFJdptTto)
+- [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
+- [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
