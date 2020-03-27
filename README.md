@@ -77,7 +77,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [cryptocurrency-blockchain-introduction-digital-currency](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency/lecture/3IJPP/introduction-and-summary)
 
 # Single videos
-## Similatuon theory
+## Simulation theory
 - [Are We Living in a Simulation? | Oleg Maslov | TEDxSPbU](https://www.youtube.com/watch?v=b5c7Rq4ZQaA)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [Leonard Susskind on The World As Hologram](https://www.youtube.com/watch?v=2DIl3Hfh9tY&t=3s)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [Simulation #256 Dr. Max Tegmark - Math, Physics, & AGI](https://www.youtube.com/watch?v=BBYkS4eXkAY)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
@@ -93,9 +93,13 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 ## AI
 - [Machines playing God: How A.I. will overcome humans | Max Tegmark](https://www.youtube.com/watch?v=p9eLpRbRk4c)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [Max Tegmark on Steps toward building an AI physicist](https://www.youtube.com/watch?v=9atnfAHBfSI)
-- [Simulation | TransTech #250 Dr. Ben Goertzel - Decentralized Artificial General Intelligence](https://www.youtube.com/watch?v=9atnfAHBfSI)
-- [Is a Brain Upload Possible? Max Tegmark on Whole Brain Emulation](https://www.youtube.com/watch?v=L5rNDCC-o2U)
-- [Simulation #297 Siranush Babakhanova - Xapiens: Humans Augmented](https://www.youtube.com/watch?v=S8gFgIX92Nw)
+- [Simulation | TransTech #250 Dr. Ben Goertzel - Decentralized Artificial General Intelligence](https://www.youtube.com/watch?v=9atnfAHBfSI)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12"><img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+- [Is a Brain Upload Possible? Max Tegmark on Whole Brain Emulation](https://www.youtube.com/watch?v=L5rNDCC-o2U)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+- [Simulation #297 Siranush Babakhanova - Xapiens: Humans Augmented](https://www.youtube.com/watch?v=S8gFgIX92Nw)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+
+## memory
+- [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
+
 ## history
 - [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [Michael Cremo: "Forbidden Archaeology" | Talks at Google](https://www.youtube.com/watch?v=DKfGC3P9KoQ)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
