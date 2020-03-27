@@ -99,6 +99,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 ## memory
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
+- [Study Less Study Smart: A 6-Minute Summary of Marty Lobdell's Lecture - College Info Geek](https://www.youtube.com/watch?v=23Xqu0jXlfs)
+- [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
 ## history
 - [The Epic of Gilgamesh, Lecture by Andrew George](https://www.youtube.com/watch?v=Rd7MrGy_tEg)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
