@@ -31,9 +31,9 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 ## Cultural
 - [ Archaeology's Dirty Little Secrets ](https://www.classcentral.com/course/secrets-513)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
-- [truthinourbones-osteoarchaeology-archaeology - coursera](https://www.coursera.org/learn/truthinourbones-osteoarchaeology-archaeology)
+- [truthinourbones-osteoarchaeology-archaeology - coursera](https://www.coursera.org/learn/truthinourbones-osteoarchaeology-archaeology)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [astrobiology-exploring-other-worlds - coursera](https://www.coursera.org/learn/astrobiology-exploring-other-worlds)
-- [Archaeoastronomy - coursera](https://www.coursera.org/learn/archaeoastronomy#syllabus)
+- [Archaeoastronomy - coursera](https://www.coursera.org/learn/archaeoastronomy#syllabus)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 
 ## Programming
 - [Assembly Language: The (Sega) Genesis of Programming: CodeMash](https://www.pluralsight.com/courses/codemash-session-97)
@@ -100,5 +100,5 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Irving Finkel | The Ark Before Noah: A Great Adventure](https://www.youtube.com/watch?v=s_fkpZSnz2I)
 
 ## self-improvment
-- [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)
+- [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
