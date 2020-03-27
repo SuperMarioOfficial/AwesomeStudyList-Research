@@ -55,6 +55,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Learning from Bug Bounty Results: CodeMash](https://app.pluralsight.com/player?name=19dff2b0-9f9f-47c9-a939-abc3cd6f2a4f&mode=live&clip=0&course=codemash-session-49)
 - [Practical Cryptography for Developers: CodeMash](https://app.pluralsight.com/player?name=c0c39038-7d8c-4396-ab3f-fbe6bfd63635&mode=live&clip=0&course=codemash-session-39)
 - [Networking security book](https://gendersec.tacticaltech.org/wiki/index.php/Networking_concepts)
+- [flAWS challenge!](http://flaws.cloud/hint1.html)
+- [flAWS2 challenge!](http://flaws2.cloud/)
 ## hacking
 - [hacksplaining](https://www.hacksplaining.com/)
 - [portswigger web-security](https://portswigger.net/web-security)
