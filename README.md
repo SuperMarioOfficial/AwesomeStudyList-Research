@@ -107,7 +107,23 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 
-## Memory and studying
+# Memory and studying
+- scoping the subject
+  - writing down all words and topic that you do not know the meaning
+  - writing down questions about the subject
+- Active recall 
+  - for each word write everything associated with that you remember about 
+  - answer the questions in bullet point
+- space repetition 
+  - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
+    - use colors to determine which topic is easier and which is worst
+  - use this sequence: [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] -> [s4] -> [s3r] -> [s2r] -> [s1r] -> [s4r] | end of study session
+
+## top 10 to improve your study
+- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
+- [Active recall]()
+- [Space repetition](https://youtu.be/Z-zNHHpXoMM)
+
 ### Recall Method
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
