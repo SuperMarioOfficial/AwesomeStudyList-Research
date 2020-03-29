@@ -110,19 +110,25 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 # Memory and studying
 - scoping the subject
   - writing down all words and topic that you do not know the meaning
-  - writing down questions about the subject
-- Active recall 
+  - writing down questions about the subject [source](https://youtu.be/fDbxPVn02VU?t=38)
+- Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)
   - for each word write everything associated with that you remember about 
   - answer the questions in bullet point
 - space repetition 
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
   - use this sequence: [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] -> [s4] -> [s3r] -> [s2r] -> [s1r] -> [s4r] | end of study session
+    - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
+ - revision 
+   - start from the last chapter and move backwards 
+   - write down everything you are not familiar with and date
+   
 
 ## top 10 to improve your study
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [Active recall]()
 - [Space repetition](https://youtu.be/Z-zNHHpXoMM)
+
 
 ### Recall Method
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
