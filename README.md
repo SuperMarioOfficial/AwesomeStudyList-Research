@@ -111,7 +111,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - scoping the subject
   - writing down all words and topic that you do not know the meaning
   - writing down questions about the subject [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
-- Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)
+- Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)[source 2](https://youtu.be/V-UvSKe8jW4?t=430)
   - for each word write everything associated with that you remember about 
   - answer the questions in bullet point
 - space repetition [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
@@ -139,6 +139,7 @@ The recall method is the method of training your brain to retrieve informations 
 ### How to write Notes 
 - [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
 - [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
+- [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 ### Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
 - [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
@@ -150,6 +151,7 @@ The recall method is the method of training your brain to retrieve informations 
 - [How I Memorized Everything & Aced Medical School | 3 Memory Techniques](https://www.youtube.com/watch?v=J1dYrFwg5Hg)
 - [Most Effective Way to IMPROVE MEMORY (& Memorize ANYTHING)](https://www.youtube.com/watch?v=G49R744t4Ew)
 - [Memorization | Memory Palace and Mnemonics | How to Actually USE Them](https://www.youtube.com/watch?v=GcN4LcjLFd4)
+- [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
 ### Reading 
 - [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
 ### Sleeping
@@ -169,3 +171,4 @@ The recall method is the method of training your brain to retrieve informations 
 - [Pre-Med Study Strategies - What I Wish I Knew in College (Tips from Medical School)](https://www.youtube.com/watch?v=1JqFJdptTto)
 - [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
 - [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
+- [Learn Anything in Four Steps With the Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/)
