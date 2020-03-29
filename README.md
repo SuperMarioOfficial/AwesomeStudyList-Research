@@ -110,11 +110,11 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 # Memory and studying
 - scoping the subject
   - writing down all words and topic that you do not know the meaning
-  - writing down questions about the subject [source](https://youtu.be/fDbxPVn02VU?t=38)
+  - writing down questions about the subject [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
 - Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)
   - for each word write everything associated with that you remember about 
   - answer the questions in bullet point
-- space repetition 
+- space repetition [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
   - use this sequence: [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] -> [s4] -> [s3r] -> [s2r] -> [s1r] -> [s4r] | end of study session
@@ -138,6 +138,7 @@ The recall method is the method of training your brain to retrieve informations 
 - [How I Study For Exams in Medical School [Active Recall Study Strategies]](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 ### How to write Notes 
 - [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
+- [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
 ### Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
 - [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
