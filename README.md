@@ -126,8 +126,9 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
     - [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] | Place s1 at the bottom of the stack for tomorrow. 
     - [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s2r] | Place s2 at the bottom of the stack for tomorrow. 
     - [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s3r] | Place s3 at the bottom of the stack for tomorrow.
-    - After this you will start a new spring for all 3 subjects. After 3 days or the finish of the second spring you revise all 3 previous topics and test what you remember. 
-    - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
+      - After this you will start a new block for all 3 subjects. After 3 days or the finish of the second spring you revise all 3 previous topics and test what you remember. 
+      - study session: 50 min, revision session: 15 min
+      - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
 
  - revision 
    - start from the last chapter and move backwards 
