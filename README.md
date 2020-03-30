@@ -108,17 +108,25 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 
 # Memory and studying
-- scoping the subject (while reading a text book, or slideds, or syllabus)
+- scoping the subject: syllabus -> slides -> book chapters
   - writing down all words and topic that you do not know the meaning
   - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
+    - usually at the end of the chapters there are a set of questions
+    - check for questions in the slides
+    - for each topic of the syllabus you should at the least know to desribe to someone that does not know anything about the subject "what is". [Feynman Technique](https://qph.fs.quoracdn.net/main-qimg-2af4e9efa584f1c46758ea56c085e3bf)
 - Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)[source 2](https://youtu.be/V-UvSKe8jW4?t=430), [source 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031794/)
   - for each word write down nodes of everything associated with that you remember about 
   - answer the questions in bullet point or drawing from the cornell style notes you took before
 - space repetition [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
-  - use this sequence: [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] -> [s4] -> [s3r] -> [s2r] -> [s1r] -> [s4r] | end of study session
+  - use this sequence for 3 subjects: 
+  - [scope 1] -> [scope 2] -> [scope 3]
+  - [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] | Place s1 at the bottom of the stack for tomorrow. 
+  - [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s2r] | Place s2 at the bottom of the stack for tomorrow. 
+  - [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s3r] | Place s3 at the bottom of the stack for tomorrow.
     - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
+
  - revision 
    - start from the last chapter and move backwards 
    - write down everything you are not familiar with and date
@@ -145,6 +153,7 @@ The recall method is the method of training your brain to retrieve informations 
 - [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
 - [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
 - [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
+- [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
 ### Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
 - [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
