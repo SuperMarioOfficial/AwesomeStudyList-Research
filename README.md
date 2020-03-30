@@ -121,12 +121,15 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - space repetition [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
-  - use this sequence for 3 subjects: 
+  - use this sequence for 3/2 subjects: 
     - [scope 1] -> [scope 2] -> [scope 3]
     - [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s1r] | Place s1 at the bottom of the stack for tomorrow. 
-    - [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s2r] | Place s2 at the bottom of the stack for tomorrow. 
-    - [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s3r] | Place s3 at the bottom of the stack for tomorrow.
-      - After this you will start a new block for all 3 subjects. After 3 days or the finish of the second spring you revise all 3 previous topics and test what you remember. 
+      - [s1] -> [s2] -> [s1r] -> [s2r] -> [s1e] -> [s2e]
+    - [s1r] -> [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s2r] | Place s2 at the bottom of the stack for tomorrow. 
+      - [s1r] -> [s2r] -> [s1e] -> [s2e] -> [s1] -> [s2]
+    - [s2r] -> [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s3r] | Place s3 at the bottom of the stack for tomorrow.
+       - [s1r] -> [s2r] -> [s1] -> [s2] -> [s1e] -> [s2e]
+      - before starting the new block you need to do [s1r] and [s2r] and [s3r], then after this you will start a new block for all 3/2 subjects. After 3 days or the finish of the block you revise all 3/2 previous topics and test what you remember. 
       - study session: 50 min, revision session: 15 min
       - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
 
