@@ -108,12 +108,12 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 
 # Memory and studying
-- scoping the subject
+- scoping the subject (while reading a text book, or slideds, or syllabus)
   - writing down all words and topic that you do not know the meaning
-  - writing down questions about the subject [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
-- Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)[source 2](https://youtu.be/V-UvSKe8jW4?t=430)
-  - for each word write everything associated with that you remember about 
-  - answer the questions in bullet point
+  - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
+- Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)[source 2](https://youtu.be/V-UvSKe8jW4?t=430), [source 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031794/)
+  - for each word write down nodes of everything associated with that you remember about 
+  - answer the questions in bullet point or drawing from the cornell style notes you took before
 - space repetition [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
@@ -123,15 +123,20 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
    - start from the last chapter and move backwards 
    - write down everything you are not familiar with and date
    
-
-## top 10 to improve your study
-- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
-- [Active recall]()
-- [Space repetition](https://youtu.be/Z-zNHHpXoMM)
-
+## top ideas to improve your study
+- [Active recall](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
+  - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
+- [Space repetition](https://youtu.be/Z-zNHHpXoMM) after : day(5 minutes, 30 minutes, 2 hours), month(1 days, 5 days, 10 days) 
+   - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
+   - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
+   - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***
+- [Cornell Note Taking System](https://www.youtube.com/watch?v=xCCWQkJbtyY)
+  - [How better note taking can improve your memory](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+  - [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4)
 
 ### Recall Method
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
+- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
