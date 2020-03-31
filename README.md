@@ -107,37 +107,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 
-# Memory and studying   
-## Top ideas to improve your study [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
-- [Active recall](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
-  - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
-- [Space repetition](https://youtu.be/Z-zNHHpXoMM) after : day(5 minutes, 30 minutes, 2 hours), month(1 days, 5 days, 10 days) 
-   - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
-   - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
-   - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***
-- [Cornell Note Taking System](https://www.youtube.com/watch?v=xCCWQkJbtyY)
-  - [How better note taking can improve your memory](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
-  - [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4)
-
-### Recall Method
-The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
-![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
-The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%
-- [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
-- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
-- [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
-- [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
-- [How I Study For Exams in Medical School [Active Recall Study Strategies]](https://www.youtube.com/watch?v=YhvZqXLBH_o)
-### How to write Notes 
-![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
-- [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
-- [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
-- [The Cornell Note-taking System(questions+bullet points answers)](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
-- [Write questions rather than notes](https://www.youtube.com/watch?v=fDbxPVn02VU&t=49s)
-- [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
-### Revision
-- [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
-- [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
+# Memory and Sleeping 
 ### Memory and learning 
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
 - [How to Learn Faster with the Feynman Technique (Example Included)](https://www.youtube.com/watch?v=_f-qkGJBPts)
@@ -147,8 +117,6 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [Most Effective Way to IMPROVE MEMORY (& Memorize ANYTHING)](https://www.youtube.com/watch?v=G49R744t4Ew)
 - [Memorization | Memory Palace and Mnemonics | How to Actually USE Them](https://www.youtube.com/watch?v=GcN4LcjLFd4)
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
-### Reading 
-- [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
 ### Sleeping
 - [Surgeon Sleep Secrets - The Art & Science of Sleep](https://www.youtube.com/watch?v=aaYys7uGqZQ)
 - [Sleep Smarter | Sleeping Science, How to be Better at it, & Feel More Refreshed](https://www.youtube.com/watch?v=Oq28WJpZfLg)
@@ -167,6 +135,39 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
 - [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
 - [Learn Anything in Four Steps With the Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/)
+
+# Scientific ideas to improve your study [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+### [Active recall](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
+The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
+![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
+The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
+  - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
+- [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
+- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
+- [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
+- [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
+- [How I Study For Exams in Medical School [Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
+### [Space repetition](https://youtu.be/Z-zNHHpXoMM) after : day(5 minutes, 30 minutes, 2 hours), month(1 days, 5 days, 10 days) 
+   - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
+   - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
+   - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
+### Revision at the end of each session
+- [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
+- [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
+
+### Reading 
+- [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
+### How to write Notes 
+![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
+- [Cornell Note Taking System](https://www.youtube.com/watch?v=xCCWQkJbtyY)
+- [How better note taking can improve your memory](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+- [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4)
+- [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
+- [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
+- [The Cornell Note-taking System(questions+bullet points answers)](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
+- [Write questions rather than notes](https://www.youtube.com/watch?v=fDbxPVn02VU&t=49s)
+- [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
+
 ### Scientific papers and articles on the subject
 - [1939-spitzer](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
 - [Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping](https://science.sciencemag.org/content/331/6018/772.full)
