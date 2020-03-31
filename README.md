@@ -128,8 +128,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
     - [s2r] -> [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s2r] | Place s3 at the bottom of the stack for tomorrow.
   - use this sequence for 2 subjects:
      - [scope 1] -> [scope 2]
-     - [s1] -> [s2] -> [s1r] -> [s2r] -> [s1e] -> [s2e]
-     - [s1r] -> [s2] -> [s1] -> [s2r] -> [s1e] -> [s2e] 
+     - [s1] -> [Break 15 min] -> [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1e] -> [s2e]
+     - [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1]  -> [Break 15 min] -> [s1r] -> [s1e] -> [s2e] 
   - use this seuqnece for 1 subject:
      - [scope 1]
      - [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
@@ -155,6 +155,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 ### Recall Method
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
+![Rate of Forgetting with Study/Repetition](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
+In this pricture it is visible the Rate of Forgetting with Study/Repetition. 
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
