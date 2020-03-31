@@ -144,7 +144,7 @@ The recall method is the method of training your brain to retrieve informations 
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
-- [How I Study For Exams in Medical School [Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
+- [How I Study For Exams in Medical School Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 ### [Space repetition](https://youtu.be/Z-zNHHpXoMM)
 ![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
 The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
