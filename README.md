@@ -139,15 +139,15 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 # Scientific ideas to improve your study [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 ### [Active recall](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
-![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
-The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
   - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
 - [How I Study For Exams in Medical School [Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
-### [Space repetition](https://youtu.be/Z-zNHHpXoMM) after : day(5 minutes, 30 minutes, 2 hours), month(1 days, 5 days, 10 days) 
+### [Space repetition](https://youtu.be/Z-zNHHpXoMM)
+![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
+The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
    - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
