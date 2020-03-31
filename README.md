@@ -203,6 +203,6 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
         - study session: 50 min, revision session: 15 min
         - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
 
- - ***revision ***
+ - ***revision***
    - start from the last chapter and move backwards 
    - write down on a paper or excel file each topic you are not familiar with 
