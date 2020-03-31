@@ -107,42 +107,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 
-# Memory and studying
-## Algorithm
-- scoping the subject: syllabus -> slides -> book chapters
-  - writing down all words and topic that you do not know the meaning
-  - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
-    - usually at the end of the chapters there are a set of questions
-    - check for questions in the slides
-    - for each topic of the syllabus you should at the least know to desribe to someone that does not know anything about the subject "what is". [Feynman Technique](https://qph.fs.quoracdn.net/main-qimg-2af4e9efa584f1c46758ea56c085e3bf)
-- Active recall [source](https://www.youtube.com/watch?v=ukLnPbIffxE)[source 2](https://youtu.be/V-UvSKe8jW4?t=430), [source 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031794/)
-  - for each word write down nodes of everything associated with that you remember about 
-  - answer the questions in bullet point on the right side of your notebook (Cornell Notes Method of Taking Notes). 
-- space repetition [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
-  - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
-    - use colors to determine which topic is easier and which is worst
-  - use this sequence for 3 subjects: 
-    - [scope 1] -> [scope 2] -> [scope 3]
-    - [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s3r] | Place s1 at the bottom of the stack for tomorrow. 
-    - [s1r] -> [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s1r] | Place s2 at the bottom of the stack for tomorrow. 
-    - [s2r] -> [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s2r] | Place s3 at the bottom of the stack for tomorrow.
-  - use this sequence for 2 subjects:
-     - [scope 1] -> [scope 2]
-     - [s1] -> [Break 15 min] -> [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1e] -> [s2e]
-     - [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1]  -> [Break 15 min] -> [s1r] -> [s1e] -> [s2e] 
-  - use this seuqnece for 1 subject:
-     - [scope 1]
-     - [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
-     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
-        - before starting the new block you need to do [s1r] and [s2r] and [s3r], then after this you will start a new block for all 3/2 subjects. After 3 days or the finish of the block you revise all 3/2 previous topics and test what you remember. 
-        - study session: 50 min, revision session: 15 min
-        - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
-
- - revision 
-   - start from the last chapter and move backwards 
-   - write down everything you are not familiar with and date
-   
-## top ideas to improve your study [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+# Memory and studying   
+## Top ideas to improve your study [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 - [Active recall](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
   - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
 - [Space repetition](https://youtu.be/Z-zNHHpXoMM) after : day(5 minutes, 30 minutes, 2 hours), month(1 days, 5 days, 10 days) 
@@ -200,3 +166,42 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
 - [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
 - [Learn Anything in Four Steps With the Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/)
+### Scientific papers and articles on the subject
+- [1939-spitzer](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
+- [Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping](https://science.sciencemag.org/content/331/6018/772.full)
+- [Science Brief - A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+- [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
+
+## The Algorithm
+- ***scoping the subject***: syllabus -> slides -> book chapters
+  - writing down all words and topic that you do not know the meaning
+  - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
+    - usually at the end of the chapters there are a set of questions
+    - check for questions in the slides
+    - for each topic of the syllabus you should at the least know to desribe to someone that does not know anything about the subject "what is". [Feynman Technique](https://qph.fs.quoracdn.net/main-qimg-2af4e9efa584f1c46758ea56c085e3bf)
+- ***Active recall*** [source](https://www.youtube.com/watch?v=ukLnPbIffxE)[source 2](https://youtu.be/V-UvSKe8jW4?t=430), [source 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031794/)
+  - for each word write down nodes of everything associated with that you remember about 
+  - answer the questions in bullet point on the right side of your notebook (Cornell Notes Method of Taking Notes). 
+- ***space repetition*** [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
+  - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
+    - use colors to determine which topic is easier and which is worst
+  - use this sequence for 3 subjects: 
+    - [scope 1] -> [scope 2] -> [scope 3]
+    - [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s3r] | Place s1 at the bottom of the stack for tomorrow. 
+    - [s1r] -> [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s1r] | Place s2 at the bottom of the stack for tomorrow. 
+    - [s2r] -> [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s2r] | Place s3 at the bottom of the stack for tomorrow.
+  - use this sequence for 2 subjects:
+     - [scope 1] -> [scope 2]
+     - [s1] -> [Break 15 min] -> [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1e] -> [s2e]
+     - [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1]  -> [Break 15 min] -> [s1r] -> [s1e] -> [s2e] 
+  - use this seuqnece for 1 subject:
+     - [scope 1]
+     - [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
+     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
+        - before starting the new block you need to do [s1r] and [s2r] and [s3r], then after this you will start a new block for all 3/2 subjects. After 3 days or the finish of the block you revise all 3/2 previous topics and test what you remember. 
+        - study session: 50 min, revision session: 15 min
+        - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
+
+ - ***revision ***
+   - start from the last chapter and move backwards 
+   - write down on a paper or excel file each topic you are not familiar with 
