@@ -142,7 +142,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
    - start from the last chapter and move backwards 
    - write down everything you are not familiar with and date
    
-## top ideas to improve your study
+## top ideas to improve your study [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 - [Active recall](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
   - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
 - [Space repetition](https://youtu.be/Z-zNHHpXoMM) after : day(5 minutes, 30 minutes, 2 hours), month(1 days, 5 days, 10 days) 
@@ -155,14 +155,15 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 ### Recall Method
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
-![Rate of Forgetting with Study/Repetition](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
-In this pricture it is visible the Rate of Forgetting with Study/Repetition. 
-- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
+![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
+The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
+- [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
 - [How I Study For Exams in Medical School [Active Recall Study Strategies]](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 ### How to write Notes 
+![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
 - [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
 - [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
 - [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
