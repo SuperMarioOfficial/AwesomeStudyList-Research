@@ -132,7 +132,8 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
 - [How To Make Notes From Lectures - Active Recall](https://www.youtube.com/watch?v=rndinEQx8VM)
 - [The Essay Memorisation Framework](https://www.youtube.com/watch?v=-46Vyiwat_Y)
-- [The Cornell Note-taking System](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
+- [The Cornell Note-taking System(questions+bullet points answers)](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
+- [Write questions rather than notes](https://www.youtube.com/watch?v=fDbxPVn02VU&t=49s)
 - [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
 ### Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
