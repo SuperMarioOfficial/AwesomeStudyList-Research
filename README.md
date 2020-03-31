@@ -103,10 +103,6 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Michael Cremo: "Forbidden Archaeology" | Talks at Google](https://www.youtube.com/watch?v=DKfGC3P9KoQ)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [Irving Finkel | The Ark Before Noah: A Great Adventure](https://www.youtube.com/watch?v=s_fkpZSnz2I)
 
-## self-improvment
-- [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
-- [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
-
 # Memory and Sleeping 
 ### Memory and learning 
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
@@ -117,6 +113,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Most Effective Way to IMPROVE MEMORY (& Memorize ANYTHING)](https://www.youtube.com/watch?v=G49R744t4Ew)
 - [Memorization | Memory Palace and Mnemonics | How to Actually USE Them](https://www.youtube.com/watch?v=GcN4LcjLFd4)
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
+- [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+- [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 ### Sleeping
 - [Surgeon Sleep Secrets - The Art & Science of Sleep](https://www.youtube.com/watch?v=aaYys7uGqZQ)
 - [Sleep Smarter | Sleeping Science, How to be Better at it, & Feel More Refreshed](https://www.youtube.com/watch?v=Oq28WJpZfLg)
