@@ -1,4 +1,4 @@
-# covid19coursesonline
+# My stairway to knowledge
 This is the list of the courses, notes, repositories I have watched, wrote, initiated during my quarantine during the 2020 covid19.
 
 ## main hubs
