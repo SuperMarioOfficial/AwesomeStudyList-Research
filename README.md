@@ -25,6 +25,9 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Deploy and Configure a Single-Node Hadoop Cluster](https://linuxacademy.com/hands-on-lab/53d9eb12-943a-46f4-a5e0-841e66459b51/)
 - [Database Essential](https://linuxacademy.com/course/database-essentials/)
 
+## BugHunting
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg/videos)
+- [Intro to Web Hacking: Hacking OWASP](https://www.twitch.tv/videos/579865758)
 
 ## podcasts
 - [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
