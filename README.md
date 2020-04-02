@@ -6,6 +6,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [www.coursera.org](https://www.coursera.org/)
 - [Malware analysis journal](https://github.com/H3xFiles/malwareanalysis_journal/blob/master/february2020.md)
 - [linuxacademy](https://linuxacademy.com)
+- [Packtpub](https://subscription.packtpub.com)
+- [Cloud Accademy](https://cloudacademy.com/)
 
 
 ## Linux Accademy Security and Devops
