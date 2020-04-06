@@ -27,9 +27,6 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Deploy and Configure a Single-Node Hadoop Cluster](https://linuxacademy.com/hands-on-lab/53d9eb12-943a-46f4-a5e0-841e66459b51/)
 - [Database Essential](https://linuxacademy.com/course/database-essentials/)
 
-## BugHunting
-- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg/videos)
-- [Intro to Web Hacking: Hacking OWASP](https://www.twitch.tv/videos/579865758)
 
 ## podcasts
 - [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
@@ -67,8 +64,11 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [portswigger web-security](https://portswigger.net/web-security)
 - [Learn to hack stuff](https://www.hacker101.com/videos)
 
-## Devops [my notes](https://github.com/cybern3tic/devops_notes)
-- [Introduction-to-ansible](https://www.ansible.com/resources/webinars-training/introduction-to-ansible)
+## BugHunting
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg/videos)
+- [Intro to Web Hacking: Hacking OWASP](https://www.twitch.tv/videos/579865758)
+- [book] [Real-World-Bug-Hunting-Field-Hacking](https://www.amazon.co.uk/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG/ref=pd_sim_351_8?_encoding=UTF8&pd_rd_i=B072SQZ2LG&pd_rd_r=2943f6c5-808b-4fb9-b9f4-29e394fb8b7c&pd_rd_w=nff2j&pd_rd_wg=JN3WN&pf_rd_p=16077870-bd76-4a97-bf5d-39a5e27f77d1&pf_rd_r=P2NP10MC1JX6FMWBNHSD&psc=1&refRID=P2NP10MC1JX6FMWBNHSD)
+
 
 
 ## AI, ML [my notes](https://github.com/H3xFiles/MachineLearningNotes)
@@ -138,3 +138,6 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
 - [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
 - [Learn Anything in Four Steps With the Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/)
+
+
+
