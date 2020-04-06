@@ -9,6 +9,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Packtpub](https://subscription.packtpub.com)
 - [Cloud Accademy](https://cloudacademy.com/)
 
+## podcasts
+- [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
 
 ## Linux Accademy Security and Devops
 - [SecDevOps Essential](https://linuxacademy.com/course/dev-sec-ops-essentials/)
@@ -27,28 +29,10 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Deploy and Configure a Single-Node Hadoop Cluster](https://linuxacademy.com/hands-on-lab/53d9eb12-943a-46f4-a5e0-841e66459b51/)
 - [Database Essential](https://linuxacademy.com/course/database-essentials/)
 
-
-## podcasts
-- [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
-
-## Cultural
-- [ Archaeology's Dirty Little Secrets ](https://www.classcentral.com/course/secrets-513)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
-- [truthinourbones-osteoarchaeology-archaeology - coursera](https://www.coursera.org/learn/truthinourbones-osteoarchaeology-archaeology)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
-- [astrobiology-exploring-other-worlds - coursera](https://www.coursera.org/learn/astrobiology-exploring-other-worlds)
-- [Archaeoastronomy - coursera](https://www.coursera.org/learn/archaeoastronomy#syllabus)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
-
 ## Programming
 - [Assembly Language: The (Sega) Genesis of Programming: CodeMash](https://www.pluralsight.com/courses/codemash-session-97)
 - [A Developer's Introduction to Electronics: CodeMash](https://www.pluralsight.com/courses/codemash-session-35)
 - [how-to-make-a-robot](https://www.robotshop.com/community/tutorials/show/how-to-make-a-robot-lesson-10-programming-your-robot)
-## Science
-- [How Viruses Cause Disease](https://www.my-mooc.com/en/mooc/virology2/)
-- [Case study: DNA methylation data analysis ](https://www.classcentral.com/course/edx-case-study-dna-methylation-data-analysis-2980)
-- [World Health Organization COVID-19 Clinical Care Training for Severe Acute Respiratory Infection](https://openwho.org/courses/severe-acute-respiratory-infection)
-- [World Health Organization Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19) ](https://openwho.org/courses/COVID-19-IPC-EN)
-- [World Health Organization ePROTECT Respiratory Infections (EN)](https://openwho.org/courses/eprotect-acute-respiratory-infections)
-- [World Health Organization Emerging respiratory viruses, including COVID-19: methods for detection, prevention, response and control](https://openwho.org/courses/introduction-to-ncov)
-
 
 ## Security
 - [Intro to Mobile Security Testing: CodeMash](https://app.pluralsight.com/player?name=0c0092f1-3367-447b-9223-d6b166b2a29b&mode=live&clip=0&course=codemash-session-44)
@@ -59,6 +43,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [Networking security book](https://gendersec.tacticaltech.org/wiki/index.php/Networking_concepts)
 - [flAWS challenge!](http://flaws.cloud/hint1.html)
 - [flAWS2 challenge!](http://flaws2.cloud/)
+
 ## hacking
 - [hacksplaining](https://www.hacksplaining.com/)
 - [portswigger web-security](https://portswigger.net/web-security)
@@ -70,6 +55,19 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [book] [Real-World-Bug-Hunting-Field-Hacking](https://www.amazon.co.uk/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG/ref=pd_sim_351_8?_encoding=UTF8&pd_rd_i=B072SQZ2LG&pd_rd_r=2943f6c5-808b-4fb9-b9f4-29e394fb8b7c&pd_rd_w=nff2j&pd_rd_wg=JN3WN&pf_rd_p=16077870-bd76-4a97-bf5d-39a5e27f77d1&pf_rd_r=P2NP10MC1JX6FMWBNHSD&psc=1&refRID=P2NP10MC1JX6FMWBNHSD)
 
 
+## Cultural
+- [ Archaeology's Dirty Little Secrets ](https://www.classcentral.com/course/secrets-513)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+- [truthinourbones-osteoarchaeology-archaeology - coursera](https://www.coursera.org/learn/truthinourbones-osteoarchaeology-archaeology)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+- [astrobiology-exploring-other-worlds - coursera](https://www.coursera.org/learn/astrobiology-exploring-other-worlds)
+- [Archaeoastronomy - coursera](https://www.coursera.org/learn/archaeoastronomy#syllabus)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
+
+## Science
+- [How Viruses Cause Disease](https://www.my-mooc.com/en/mooc/virology2/)
+- [Case study: DNA methylation data analysis ](https://www.classcentral.com/course/edx-case-study-dna-methylation-data-analysis-2980)
+- [World Health Organization COVID-19 Clinical Care Training for Severe Acute Respiratory Infection](https://openwho.org/courses/severe-acute-respiratory-infection)
+- [World Health Organization Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19) ](https://openwho.org/courses/COVID-19-IPC-EN)
+- [World Health Organization ePROTECT Respiratory Infections (EN)](https://openwho.org/courses/eprotect-acute-respiratory-infections)
+- [World Health Organization Emerging respiratory viruses, including COVID-19: methods for detection, prevention, response and control](https://openwho.org/courses/introduction-to-ncov)
 
 ## AI, ML [my notes](https://github.com/H3xFiles/MachineLearningNotes)
 - [Machine Learning on the Cheap and without a PhD in Math: CodeMash](https://www.pluralsight.com/courses/codemash-session-51)
