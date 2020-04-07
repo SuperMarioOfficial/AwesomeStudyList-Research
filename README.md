@@ -8,6 +8,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [linuxacademy](https://linuxacademy.com)
 - [Packtpub](https://subscription.packtpub.com)
 - [Cloud Accademy](https://cloudacademy.com/)
+- [oreilly](https://learning.oreilly.com)
 
 ## podcasts
 - [GreatPodacastList](https://github.com/H3xFiles/GreatPodacastList)
