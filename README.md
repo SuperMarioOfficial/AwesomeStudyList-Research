@@ -70,6 +70,12 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [World Health Organization ePROTECT Respiratory Infections (EN)](https://openwho.org/courses/eprotect-acute-respiratory-infections)
 - [World Health Organization Emerging respiratory viruses, including COVID-19: methods for detection, prevention, response and control](https://openwho.org/courses/introduction-to-ncov)
 
+## Energy 
+- [Solar Energy: Integration of Photovoltaic Systems in Microgrids](https://ocw.tudelft.nl/courses/solar-energy-integration-photovoltaic-systems-microgrids/)
+- [Solar Energy: Photovoltaic (PV) Systems](https://ocw.tudelft.nl/courses/solar-energy-photovoltaic-pv-systems/)
+- [Zero-Energy Design: an approach to make your building sustainable](https://ocw.tudelft.nl/courses/zero-energy-design-approach-make-building-sustainable/)
+
+
 ## AI, ML [my notes](https://github.com/H3xFiles/MachineLearningNotes)
 - [Machine Learning on the Cheap and without a PhD in Math: CodeMash](https://www.pluralsight.com/courses/codemash-session-51)
 - [Creating a Chess AI That Can Beat You: CodeMash](https://www.pluralsight.com/courses/codemash-session-111)
