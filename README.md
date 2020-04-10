@@ -115,11 +115,11 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 # [Studying](https://github.com/SuperMarioOfficial/how-to-study-more-effectively), Memory and Sleeping 
 For more detailed information about studying techniques please visit [how to study more effectively](https://github.com/SuperMarioOfficial/how-to-study-more-effectively)
-### Studying
-#### 20 hours to learn anything [source](https://www.youtube.com/watch?v=5MgBikgcWnY)
+## Studying
+### 20 hours to learn anything [source](https://www.youtube.com/watch?v=5MgBikgcWnY)
 ![](https://theburningmonk.com/wp-content/uploads/2015/04/learning_curve.png)
 The first 20h of intense study are the differnece between fully ignorant about a subject to fully proficient. The learnin curve is not linear and the diminishing return of each hour spent studying is reduced further you become an expert. The 10.000 hours theory is real, but it does not translate to be the most effective in real life, because spending 10.000 hours to do something you could be highly proficient in ancountable other things. He demostrate that learning to play the ukulele from 0 to enjoyable in less than 20 hours. 
-#### principles and actions to learn fast a second language [source](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+### Principles and actions to learn fast a second language [source](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 ##### Basics concepts
 - Talent does not exists
 - immersion in an enviroment is not enough for example "man drowining won't learn to swim", you need to ***actively*** use the language or the knowledge
@@ -134,7 +134,7 @@ The first 20h of intense study are the differnece between fully ignorant about a
 - ask questions in the language, especially in the beginning write down, questions like: How do you say that? What is it in <language>? What's the name of this object? 
 - build mental images associated with the word. 
 
-### Memory
+## Memory
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
 - [How to Learn Faster with the Feynman Technique (Example Included)](https://www.youtube.com/watch?v=_f-qkGJBPts)
 - [The Most Powerful Way to Remember What You Study](https://www.youtube.com/watch?v=eVajQPuRmk8)
@@ -146,7 +146,7 @@ The first 20h of intense study are the differnece between fully ignorant about a
 - [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)<img src="https://raw.githubusercontent.com/frankietyrine/covid19coursesonline/master/yes.png"  height="12" width="12">
 - [How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem](https://www.youtube.com/watch?v=JsC9ZHi79jo)
 
-### Sleeping
+## Sleeping
 - [Surgeon Sleep Secrets - The Art & Science of Sleep](https://www.youtube.com/watch?v=aaYys7uGqZQ)
 - [Sleep Smarter | Sleeping Science, How to be Better at it, & Feel More Refreshed](https://www.youtube.com/watch?v=Oq28WJpZfLg)
 - [How to Wake Up Early - And Not be Miserable](https://www.youtube.com/watch?v=XtDc_iJ-j-M)
