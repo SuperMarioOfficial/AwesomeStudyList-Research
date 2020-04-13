@@ -115,25 +115,6 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 # [Studying](https://github.com/SuperMarioOfficial/how-to-study-more-effectively), Memory and Sleeping 
 For more detailed information about studying techniques please visit [how to study more effectively](https://github.com/SuperMarioOfficial/how-to-study-more-effectively)
-## Studying
-### 20 hours to learn anything [source](https://www.youtube.com/watch?v=5MgBikgcWnY)
-![](https://theburningmonk.com/wp-content/uploads/2015/04/learning_curve.png)
-The first 20h of intense study are the differnece between fully ignorant about a subject to fully proficient. The learnin curve is not linear and the diminishing return of each hour spent studying is reduced further you become an expert. The 10.000 hours theory is real, but it does not translate to be the most effective in real life, because spending 10.000 hours to do something you could be highly proficient in ancountable other things. He demostrate that learning to play the ukulele from 0 to enjoyable in less than 20 hours. 
-### Principles and actions to learn fast a second language [source](https://www.youtube.com/watch?v=d0yGdNEWdn0)
-##### Basics concepts
-- Talent does not exists
-- immersion in an enviroment is not enough for example "man drowining won't learn to swim", you need to ***actively*** use the language or the knowledge
-##### principles
-- survival -> attention. Information absorbtion need to be directly relavant to you, it needs to have a strong urgent importance in your life otherwise it won't stick to your brain. 
-- Use immidately the skills you have learned, do NOT wait until you "finished" the course. This is the idea of ***active recalling***, placing yourself in the position of having to solve problems with the current knowledge you have and understanding the current knowledge gaps. With that information you can then go back and fill the gaps with more information and try again. 
-- comprehensible input, knowledge is not an accumulation of data in out brain, but stretching it as a muscle exercise if you don't feel the pain is not working. Try more complex tasks than your current level.
-##### actions 
-- listen,read,watch a lot: "brain soaking" 
-- with little knowledge you can build a lot. With 10 verbs,nouns and adjectives you can formulate more than 1000 phrases. Start use the language, mix, it try it, don't be shy and use it. 
-- find the most used words and learn them. 3000 words cover 95% of most of the languages spectrum. If you speak those 3000 words you speak the language the rest is topping up the cake. 
-- ask questions in the language, especially in the beginning write down, questions like: How do you say that? What is it in <language>? What's the name of this object? 
-- build mental images associated with the word. 
-
 ## Memory
 - [How To Remember Everything You Learn](https://www.youtube.com/watch?v=V-UvSKe8jW4)
 - [How to Learn Faster with the Feynman Technique (Example Included)](https://www.youtube.com/watch?v=_f-qkGJBPts)
