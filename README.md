@@ -53,6 +53,7 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 
 ## ctf 
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [ctf 101](https://trailofbits.github.io/ctf/)
 
 ## BugHunting, ctf
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg/videos)
