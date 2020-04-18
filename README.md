@@ -50,7 +50,8 @@ This is the list of the courses, notes, repositories I have watched, wrote, init
 - [portswigger web-security](https://portswigger.net/web-security)
 - [Learn to hack stuff](https://www.hacker101.com/videos)
 
-## BugHunting
+## BugHunting, ctf
+- [ LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg/videos)
 - [Intro to Web Hacking: Hacking OWASP](https://www.twitch.tv/videos/579865758)
 - [book] [Real-World-Bug-Hunting-Field-Hacking](https://www.amazon.co.uk/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG/ref=pd_sim_351_8?_encoding=UTF8&pd_rd_i=B072SQZ2LG&pd_rd_r=2943f6c5-808b-4fb9-b9f4-29e394fb8b7c&pd_rd_w=nff2j&pd_rd_wg=JN3WN&pf_rd_p=16077870-bd76-4a97-bf5d-39a5e27f77d1&pf_rd_r=P2NP10MC1JX6FMWBNHSD&psc=1&refRID=P2NP10MC1JX6FMWBNHSD)
